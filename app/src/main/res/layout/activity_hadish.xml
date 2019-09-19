@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".leftbar.Hadish">
+
+
+
+    <Button
+        android:id="@+id/btnFateha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/colorPink"
+        android:background="@color/colorWhite"
+        android:text="@string/fateha"
+        android:onClick="btnFateha"/>
+    <Button
+        android:id="@+id/btnFil"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/colorPink"
+        android:background="@color/colorWhite"
+        android:text="@string/fill"
+        android:onClick="btnFill"/>
+    <Button
+        android:id="@+id/btnKuraish"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/colorPink"
+        android:background="@color/colorWhite"
+        android:text="@string/kuraish"
+        android:onClick="btnKuraish"/>
+
+
+</LinearLayout>

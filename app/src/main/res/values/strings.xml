@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">App of Ramadan</string>
+    <string name="fateha">সূরা আল ফাতিহা</string>
+    <string name="fill">সূরা ফীল </string>
+    <string name="kuraish">সূরা কুরাইশ</string>
+
+    <string name="find_city">find City</string>
+    <string name="showArea">not selected!</string>
+
+    <string-array name="city_names">
+        <item>dhaka</item>
+        <item>kushtia</item>
+    </string-array>
+</resources>

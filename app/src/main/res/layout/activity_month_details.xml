@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".leftbar.MonthDetails">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/tvDate_16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="kkkkkkfk"
+                android:layout_gravity="center"
+                android:background="@color/colorFirst"/>
+            <Button
+                android:id="@+id/tvSaheri_16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="kkkkkkkk"
+                android:layout_gravity="center"
+                android:background="@color/colorSecond"/>
+            <Button
+                android:id="@+id/tvIftar_16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="kkkkkkkk"
+                android:layout_gravity="center"
+                android:background="@color/colorSecond"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/colorThird">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <Button
+                    android:id="@+id/tvFajor_16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp" />
+                <Button
+                    android:id="@+id/tvJohor_16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp" />
+                <Button
+                    android:id="@+id/tvAsor_16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/tvMagrib_16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"/>
+                <Button
+                    android:id="@+id/tvAsha_16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Button
+                android:id="@+id/tvDate_17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="kkkkkkfk"
+                android:layout_gravity="center"
+                android:background="@color/colorFirst"/>
+            <Button
+                android:id="@+id/tvSaheri_17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="kkkkkkkk"
+                android:layout_gravity="center"
+                android:background="@color/colorSecond"/>
+            <Button
+                android:id="@+id/tvIftar_17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="kkkkkkkk"
+                android:layout_gravity="center"
+                android:background="@color/colorSecond"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/colorThird">
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <Button
+                    android:id="@+id/tvFajor_17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp" />
+                <Button
+                    android:id="@+id/tvJohor_17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp" />
+                <Button
+                    android:id="@+id/tvAsor_17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/tvMagrib_17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"/>
+                <Button
+                    android:id="@+id/tvAsha_17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="5dp"/>
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+
+
+</LinearLayout>
